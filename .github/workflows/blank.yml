@@ -1,4 +1,4 @@
-name: PROXY Updater
+name: PROXY
 
 on:
   schedule:
